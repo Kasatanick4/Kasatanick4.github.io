@@ -1,1 +1,14 @@
 # Kasatanick4.github.io
+
+A short description of what the project does and who it's for.
+
+## Installation 
+
+Steps to install and run the project.
+
+## Usage
+
+Examples of how to use the project.
+
+### Authors
+Carter Garrison, Nicholas Kasata.
