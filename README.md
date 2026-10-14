@@ -1,6 +1,7 @@
 # Kasatanick4.github.io
 
-A short description of what the project does and who it's for.
+Password checker.
+  A password is program that checker whether the password is strong or weak.
 
 ## Installation 
 
